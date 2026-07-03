@@ -37378,5 +37378,13 @@
     "author": "",
     "description": "Link files and folders between vaults so they share the same content on disk, with per-file exclude rules for things you want to keep vault-specific (e.g. themes). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "armalv/vault-link"
-  }
+  },
+  {
+    "id": "bunker-notes-engine",
+    "name": "Bunker Notes Engine",
+    "author": "maxi-custom",
+    "description": "Genera apuntes academicos completos en Markdown para Obsidian a partir de topicos, usando Gemini, con pool rotativo de API keys, formateo automatico de formulas y callouts de Obsidian.",
+    "repo": "maximilianocarvajal-hash/notes-engine",
+    "branch": "main"
+}
 ]
